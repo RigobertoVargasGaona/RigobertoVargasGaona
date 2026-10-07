@@ -1,8 +1,8 @@
-# Hola, soy Rigoberto Vargas Gaona 👋
+# Hola, soy Rigoberto Vargas Gaona 
 
 Desarrollador de aplicaciones web. Construyo interfaces modernas y funcionales con **React** y **Vite**, estilizadas con **Tailwind CSS**.
 
-## 🛠️ Herramientas y stack
+## Herramientas y stack
 
 | Categoría      | Tecnologías                                                                 |
 | -------------- | --------------------------------------------------------------------------- |
@@ -12,7 +12,7 @@ Desarrollador de aplicaciones web. Construyo interfaces modernas y funcionales c
 | Despliegue     | **Docker**, **docker-compose**, **Nginx**                                    |
 | Control de ver | **Git**, **GitHub**, Primer **Octicons** (iconos de GitHub)                  |
 
-## 🚀 Proyecto destacado
+## Proyecto destacado
 
 ### Formulario de Incidencias — Quantyc
 
